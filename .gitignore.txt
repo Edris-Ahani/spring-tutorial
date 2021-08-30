@@ -1,2 +1,4 @@
-session*/target/**
+session3/target/**
+session4-1/target/**
+session4-2/target/**
 session*/.idea/**
