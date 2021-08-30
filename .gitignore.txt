@@ -1,2 +1,2 @@
-/session*/target/
-/session*/.idea/
+session*/target/
+session*/.idea/
