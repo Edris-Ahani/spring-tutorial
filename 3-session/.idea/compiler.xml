@@ -6,14 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="9-session" />
+        <module name="10-session" />
+        <module name="4-2-session" />
+        <module name="7-session" />
+        <module name="4-1-session" />
         <module name="3-session" />
-        <module name="session9" />
-        <module name="session8" />
-        <module name="session4-2" />
-        <module name="session7" />
-        <module name="session4-1" />
-        <module name="session6" />
-        <module name="session10" />
+        <module name="6-session" />
+        <module name="8-session" />
       </profile>
     </annotationProcessing>
   </component>

@@ -5,13 +5,13 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/../session4-1/pom.xml" />
-        <option value="$PROJECT_DIR$/../session4-2/pom.xml" />
-        <option value="$PROJECT_DIR$/../session6/pom.xml" />
-        <option value="$PROJECT_DIR$/../session7/pom.xml" />
-        <option value="$PROJECT_DIR$/../session8/pom.xml" />
-        <option value="$PROJECT_DIR$/../session9/pom.xml" />
-        <option value="$PROJECT_DIR$/../session10/pom.xml" />
+        <option value="$PROJECT_DIR$/../4-1-session/pom.xml" />
+        <option value="$PROJECT_DIR$/../4-2-session/pom.xml" />
+        <option value="$PROJECT_DIR$/../6-session/pom.xml" />
+        <option value="$PROJECT_DIR$/../7-session/pom.xml" />
+        <option value="$PROJECT_DIR$/../8-session/pom.xml" />
+        <option value="$PROJECT_DIR$/../9-session/pom.xml" />
+        <option value="$PROJECT_DIR$/../10-session/pom.xml" />
       </list>
     </option>
   </component>
