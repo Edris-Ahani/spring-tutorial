@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="session3" />
+        <module name="session9" />
         <module name="session8" />
         <module name="session4-2" />
         <module name="session7" />
