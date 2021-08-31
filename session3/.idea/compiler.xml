@@ -13,6 +13,7 @@
         <module name="session7" />
         <module name="session4-1" />
         <module name="session6" />
+        <module name="session10" />
       </profile>
     </annotationProcessing>
   </component>
