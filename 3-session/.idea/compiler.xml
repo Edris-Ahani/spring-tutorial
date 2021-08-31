@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="3-session" />
+        <module name="session9" />
+        <module name="session8" />
+        <module name="session4-2" />
+        <module name="session7" />
+        <module name="session4-1" />
+        <module name="session6" />
+        <module name="session10" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
